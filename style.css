@@ -99,3 +99,13 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+@media (max-width: 477px){
+    .container {
+        width: 540px;
+        padding: 0px;
+        height: 1000px;
+    }
+    .todo-app {
+        min-width: 100%;
+    }
+}
