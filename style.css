@@ -110,5 +110,8 @@ ul li span:hover{
         width: 90%;
         
     }
+      html{
+        zoom: 0;
+    }
   
 }
