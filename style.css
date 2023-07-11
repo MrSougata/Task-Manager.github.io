@@ -104,11 +104,11 @@ ul li span:hover{
         width: 540px;
        padding: 0px;
         height: 1000px;
+        background-position: center;
     }
-    .row {
-        width: 85%;
+    .todo-app {
+        width: 90%;
+        
     }
-    ul li {
-        width: 85%;
-    }
+  
 }
